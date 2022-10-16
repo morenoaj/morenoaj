@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Alex Javier Moreno</h1>
 <h3 align="center">A passionate developer</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morenoaj&label=Profile%20views&color=0e75b6&style=flat" alt="morenoaj" /> </p>
-
 <p align="left"> <a href="https://twitter.com/__morenoaj" target="blank"><img src="https://img.shields.io/twitter/follow/__morenoaj?logo=twitter&style=for-the-badge" alt="__morenoaj" /></a> </p>
 
 - 👀 I’m interested in becoming a programmer.
@@ -20,7 +17,7 @@
 <a href="https://dev.to/morenoaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="morenoaj" height="30" width="40" /></a>
 <a href="https://twitter.com/__morenoaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__morenoaj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/morenoaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morenoaj1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/morenoaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="morenoaj" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20258143/morenoaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="morenoaj" height="30" width="40" /></a>
 <a href="https://instagram.com/morenoaj.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morenoaj.dev" height="30" width="40" /></a>
 </p>
 
