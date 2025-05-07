@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-# 👋 ¡Hola! Soy Alex Moreno<br><br>🚀 Ingeniero de Software | Apasionado por la IA, visión artificial y la innovación tecnológica.  <br>💻 Fanático del desarrollo web, la automatización y la creación de soluciones con impacto real.  <br>🔧 Actualmente enfocado en el desarrollo de soluciones web modernas y sistemas con inteligencia artificial aplicada.<br>
+## 👋 ¡Hola! Soy Alex Moreno<br><br>🚀 Ingeniero de Software | Apasionado por la IA, visión artificial y la innovación tecnológica.  <br>💻 Fanático del desarrollo web, la automatización y la creación de soluciones con impacto real.  <br>🔧 Actualmente enfocado en el desarrollo de soluciones web modernas y sistemas con inteligencia artificial aplicada.<br>
 
 
 ## 🌐 Socials:
